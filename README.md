@@ -1,5 +1,3 @@
-# bon-samaritain-
-appli durgence 
 name: bon_samaritain
 description: Application d'urgence communautaire Bon Samaritain.
 publish_to: "none"
